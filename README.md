@@ -1,1 +1,1 @@
-# my-scraping-workshop
+# scraping workshop
